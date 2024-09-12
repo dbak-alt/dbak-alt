@@ -15,7 +15,7 @@ I’m **Deebak Kumar**, a passionate and results-driven **Front-End Software Eng
   Developed a full-stack web application using React.js and Node.js that suggests perfumes based on user preferences.
 - **Kerala Reboot Hackathon**  
   Created an Android app using React, HTML, JavaScript, and Firebase to help farmers locate nearby godowns. Ranked in the top 25 out of 1000 participants.
-- Shop Visit Predictor**  
+- **Shop Visit Predictor**  
   Built an Android app using Android Studio and Google Firebase to predict the number of customers visiting a shop based on historical data.
 
 ## 🎯 Focus Areas
