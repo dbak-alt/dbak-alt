@@ -1,10 +1,10 @@
 # 👋 About Me
 
-I’m **Deebak Kumar**, a passionate and results-driven **Front-End Software Engineer** with over 2 years of experience in building dynamic, user-centric web applications. My expertise lies in **React.js** and **Redux**, where I focus on crafting high-quality, performant, and scalable front-end solutions.
+I’m **Deebak Kumar**, a passionate and results-driven **Software Engineer** with over 3 years of experience in building dynamic, user-centric web applications and REST API. My expertise lies in **JAVA** , **React.js** and **Redux**, where I focus on crafting high-quality, performant, and scalable full stack applications.
 
 ## 💻 Technical Skills
 - **Languages & Frameworks:**  
-  `JavaScript (ES6+)`, `React.js`, `Redux`, `HTML5`, `CSS3`
+  `JAVA`, `JavaScript (ES6+)`, `React.js`, `Redux`, `HTML5`, `CSS3`, `python`
 - **Tools & Platforms:**  
   `Git`, `Webpack`, `Jenkins`, `Docker`, `npm`, `VS Code`
 - **Design & UX:**  
@@ -15,8 +15,7 @@ I’m **Deebak Kumar**, a passionate and results-driven **Front-End Software Eng
   Developed a full-stack web application using React.js and Node.js that suggests perfumes based on user preferences.
 - **Kerala Reboot Hackathon**  
   Created an Android app using React, HTML, JavaScript, and Firebase to help farmers locate nearby godowns. Ranked in the top 25 out of 1000 participants.
-- **Shop Visit Predictor**  
-  Built an Android app using Android Studio and Google Firebase to predict the number of customers visiting a shop based on historical data.
+
 
 ## 🎯 Focus Areas
 I specialize in:
